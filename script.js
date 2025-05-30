@@ -185,7 +185,7 @@ document.addEventListener("DOMContentLoaded", () => {
               heartSize: () => 2.8 + Math.random() * 1.2 + "vmin",
               zRange: 650,
               depthScale: { min: 1, max: 2 },
-              durationRange: { base: 2, random: 3 },
+              durationRange: { base: 4, random: 3 },
               creationIntervalTime: { text: 3500, heart: 2500 },
               delayRange: 1.5,
               initialCount: { text: 20, heart: 5 },
