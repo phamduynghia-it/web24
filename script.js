@@ -10,6 +10,8 @@ document.addEventListener("DOMContentLoaded", () => {
         "Em sẽ luôn bên cạnh anh",
         "Cảm ơn a vì đã luôn đồng hành cùng e",
         "Cảm ơn anh vì đã quan tâm và lo lắng cho em",
+        ,
+        "Chàng trai của em ❤️",
     ];
 
     const colors = ["white", "pink"];
